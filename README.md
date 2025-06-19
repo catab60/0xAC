@@ -1,7 +1,7 @@
 # 0xAC – Version 1.0
 
 <p align="center">  
-  <img src="https://raw.githubusercontent.com/catab60/0xAC/refs/heads/main/assets/logo.gif", width="1000">  
+  <img src="https://github.com/catab60/0xAC/blob/main/assets/logo.gif?raw=true", width="1000">  
 </p>  
 
 This is an **AssaultCube** memory‑manipulation hack built entirely in Python, leveraging the [`pymem`](https://github.com/Srounet/Pymem) library to read and write process memory. It offers a suite of powerful cheats and was created as a challenge to master memory hacking in a high‑level language—a crash course that proved both tough and incredibly rewarding.
