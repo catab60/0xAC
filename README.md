@@ -8,6 +8,7 @@ This is an **AssaultCube** memory‑manipulation hack built entirely in Python, 
 
 ## About the Project
 
+[![Alt text](https://img.youtube.com/vi/Om8iG21hER4/0.jpg)](https://www.youtube.com/watch?v=Om8iG21hER4)
 
 This **Version 0.1** hack injects into AssaultCube’s process using `pymem`, dynamically scanning for pointers and patching memory at runtime to give you god‑mode and advanced cheats. Written as a learning exercise, it demonstrates how you can manipulate another process’s memory with pure Python and a dedicated library.
 
